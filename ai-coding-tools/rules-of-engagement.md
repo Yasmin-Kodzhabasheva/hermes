@@ -22,7 +22,7 @@ Please only add code comments for lines that do a confusing or paradoxical thing
   - Only add code comments for lines that do a confusing or paradoxical thing. Don't explain lines in comments here the code clearly tells me what it does.
 - **Automated Tests:**
   - Begin all plans and changes with:
-    - End-to-end feature tests that exercise the happy path and adge cases you anticipate
+    - End-to-end feature tests that exercise the happy path and edge cases you anticipate
     - Unit tests exercising the individual components
     - Name tests with the pattern subject_under_test__in_situation__does_thing. Examples:
       - parse_data__valid_data_file__returns_table_representation
